@@ -1,0 +1,14 @@
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/bin/Debug/netcoreapp2.1/CVDotNet.deps.json
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/bin/Debug/netcoreapp2.1/CVDotNet.runtimeconfig.json
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/bin/Debug/netcoreapp2.1/CVDotNet.runtimeconfig.dev.json
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/bin/Debug/netcoreapp2.1/CVDotNet.dll
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/bin/Debug/netcoreapp2.1/CVDotNet.pdb
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/obj/Debug/netcoreapp2.1/CVDotNet.csprojAssemblyReference.cache
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/obj/Debug/netcoreapp2.1/CVDotNet.csproj.CoreCompileInputs.cache
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/obj/Debug/netcoreapp2.1/CVDotNet.RazorAssemblyInfo.cache
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/obj/Debug/netcoreapp2.1/CVDotNet.RazorAssemblyInfo.cs
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/obj/Debug/netcoreapp2.1/CVDotNet.AssemblyInfoInputs.cache
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/obj/Debug/netcoreapp2.1/CVDotNet.AssemblyInfo.cs
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/obj/Debug/netcoreapp2.1/CVDotNet.RazorTargetAssemblyInfo.cache
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/obj/Debug/netcoreapp2.1/CVDotNet.dll
+/Users/martin/RiderProjects/CVDotNet/CVDotNet/obj/Debug/netcoreapp2.1/CVDotNet.pdb

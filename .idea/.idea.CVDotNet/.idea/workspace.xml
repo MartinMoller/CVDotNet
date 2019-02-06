@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5519ec1-e1ec-4843-85e4-0b1269a9ffc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CVDotNet/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CVDotNet/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CVDotNet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CVDotNet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVDotNet.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVDotNet/CVDotNet.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVDotNet/Controllers/ValuesController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVDotNet/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVDotNet/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVDotNet/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVDotNet/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CVDotNet/appsettings.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CVDotNet/Models/Education.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <marker date="1549463304214" expanded="false" signature="6:47" ph="..." />
+                <marker date="1549463304214" expanded="true" signature="74:333" ph="{...}" />
+                <marker date="1549463304214" expanded="true" signature="111:331" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CVDotNet/Models/Language.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <marker date="1549463304214" expanded="false" signature="6:47" ph="..." />
+                <marker date="1549463304214" expanded="true" signature="74:242" ph="{...}" />
+                <marker date="1549463304214" expanded="true" signature="110:240" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CVDotNet/Models/cvDBContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+              <folding>
+                <marker date="1549463304213" expanded="false" signature="6:96" ph="..." />
+                <marker date="1549463304213" expanded="true" signature="123:6276" ph="{...}" />
+                <marker date="1549463304213" expanded="true" signature="174:6274" ph="{...}" />
+                <marker date="1549463304213" expanded="true" signature="209:229" ph="{...}" />
+                <marker date="1549463304213" expanded="true" signature="324:344" ph="{...}" />
+                <marker date="1549463304213" expanded="true" signature="786:1211" ph="{...}" />
+                <marker date="1549463304213" expanded="true" signature="842:1201" ph="{...}" />
+                <marker date="1549463304213" expanded="true" signature="1287:6268" ph="{...}" />
+                <marker date="1549463304213" expanded="true" signature="1350:2240" ph="{...}" />
+                <marker date="1549463304213" expanded="true" signature="2295:2849" ph="{...}" />
+                <marker date="1549463304213" expanded="true" signature="2905:3520" ph="{...}" />
+                <marker date="1549463304213" expanded="true" signature="3572:4123" ph="{...}" />
+                <marker date="1549463304213" expanded="true" signature="4174:5535" ph="{...}" />
+                <marker date="1549463304213" expanded="true" signature="5586:6256" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CVDotNet" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CVDotNet" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CVDotNet" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CVDotNet" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CVDotNet" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CVDotNet" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/CVDotNet/CVDotNet.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="CVDotNet" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5519ec1-e1ec-4843-85e4-0b1269a9ffc7" name="Default Changelist" comment="" />
+      <created>1549463088666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549463088666</updated>
+      <workItem from="1549463091056" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="320000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CVDotNet/Models/Education.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <marker date="1549463304214" expanded="false" signature="6:47" ph="..." />
+            <marker date="1549463304214" expanded="true" signature="74:333" ph="{...}" />
+            <marker date="1549463304214" expanded="true" signature="111:331" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CVDotNet/Models/Language.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <marker date="1549463304214" expanded="false" signature="6:47" ph="..." />
+            <marker date="1549463304214" expanded="true" signature="74:242" ph="{...}" />
+            <marker date="1549463304214" expanded="true" signature="110:240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CVDotNet/Models/cvDBContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <marker date="1549463304213" expanded="false" signature="6:96" ph="..." />
+            <marker date="1549463304213" expanded="true" signature="123:6276" ph="{...}" />
+            <marker date="1549463304213" expanded="true" signature="174:6274" ph="{...}" />
+            <marker date="1549463304213" expanded="true" signature="209:229" ph="{...}" />
+            <marker date="1549463304213" expanded="true" signature="324:344" ph="{...}" />
+            <marker date="1549463304213" expanded="true" signature="786:1211" ph="{...}" />
+            <marker date="1549463304213" expanded="true" signature="842:1201" ph="{...}" />
+            <marker date="1549463304213" expanded="true" signature="1287:6268" ph="{...}" />
+            <marker date="1549463304213" expanded="true" signature="1350:2240" ph="{...}" />
+            <marker date="1549463304213" expanded="true" signature="2295:2849" ph="{...}" />
+            <marker date="1549463304213" expanded="true" signature="2905:3520" ph="{...}" />
+            <marker date="1549463304213" expanded="true" signature="3572:4123" ph="{...}" />
+            <marker date="1549463304213" expanded="true" signature="4174:5535" ph="{...}" />
+            <marker date="1549463304213" expanded="true" signature="5586:6256" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
