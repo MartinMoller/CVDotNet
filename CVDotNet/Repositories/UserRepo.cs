@@ -8,7 +8,12 @@ namespace CVDotNet.Repositories
 {
     public interface IUserRepo
     {
-        IEnumerable<User> GetAllUsers();
+        User Authenticate(string email, string password);
+        IEnumerable<User> GetAll();
+        User GetById(int id);
+        User Create(User user, string password);
+        void Update(User user, string password = null);
+        void Delete(int id);
     }
 
     public class UserRepo : IUserRepo
@@ -20,11 +25,6 @@ namespace CVDotNet.Repositories
             _context = context;
         }
 
-
-        public IEnumerable<User> GetAllUsers()
-        {
-            return _context.User.ToList();
-        }
 
         public User Authenticate(string email, string password)
         {
@@ -61,8 +61,12 @@ namespace CVDotNet.Repositories
             if (string.IsNullOrWhiteSpace(password))
                 throw new AppException("Password is required");
 
-            if (_context.User.Any(x => x.Email == user.Email))
+            var userValid = _context.User.FirstOrDefault(u => u.Email == user.Email);
+            if (userValid != null)
+            {
                 throw new AppException("Email \"" + user.Email + "\" is already taken");
+            }
+
 
             byte[] passwordHash, passwordSalt;
             CreatePasswordHash(password, out passwordHash, out passwordSalt);
@@ -96,7 +100,7 @@ namespace CVDotNet.Repositories
             user.City = userParam.City;
             user.Phone = userParam.Phone;
             user.Title = userParam.Title;
-            
+
             // update password if it was entered
             if (!string.IsNullOrWhiteSpace(password))
             {
