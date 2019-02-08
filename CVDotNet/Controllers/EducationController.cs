@@ -7,37 +7,44 @@ namespace CVDotNet.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class WorkController : ControllerBase
+    public class EducationController : ControllerBase
     {
-        private readonly IWorkRepo _repo;
+        private readonly IEducationRepo _repo;
 
-        public WorkController(IWorkRepo repo)
+        public EducationController(IEducationRepo repo)
         {
             _repo = repo;
         }
 
         [HttpGet]
-        public IEnumerable<Work> getAll()
+        public IEnumerable<Education> GetAll()
         {
-            return _repo.GetAllWork();
+            return _repo.GetAll();
         }
 
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            var work = _repo.GetById(id);
-            if (work != null)
+            var education = _repo.GetById(id);
+            if (education != null)
             {
-                return Ok(work);
+                return Ok(education);
             }
 
             return NotFound();
         }
 
-        [HttpPut]
-        public IActionResult Update([FromBody] Work work)
+        [HttpPost]
+        public IActionResult Create(Education educationParam)
         {
-            _repo.Update(work);
+            var education = _repo.Create(educationParam);
+            return Ok(education);
+        }
+
+        [HttpPut]
+        public IActionResult Update(Education education)
+        {
+            _repo.Update(education);
             return Ok();
         }
 
@@ -47,14 +54,5 @@ namespace CVDotNet.Controllers
             _repo.Delete(id);
             return Ok();
         }
-
-        [HttpPost]
-        public IActionResult Create([FromBody] Work work)
-        {
-            _repo.Create(work);
-            return Ok();
-        }
-        
-        
     }
 }
