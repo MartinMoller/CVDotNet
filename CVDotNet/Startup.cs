@@ -38,6 +38,7 @@ namespace CVDotNet
                 options.UseMySQL(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddScoped<IUserRepo, UserRepo>();
+            services.AddScoped<IWorkRepo, WorkRepo>();
             services.AddCors();
             services.AddAutoMapper();
 
